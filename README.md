@@ -3,7 +3,7 @@
 A structured-extraction pipeline for meeting transcripts, built to **minimize
 hallucinated action items and preserve uncertainty** when meeting information
 is ambiguous — not "an AI meeting summarizer."
-
+**Live demo:** https://transcript-to-action-pipeline-fu2qxclibyrvepspsjq7cu.streamlit.app/
 ## Problem
 
 Meeting-note tools like Otter.ai and Fireflies.ai are good at transcription
