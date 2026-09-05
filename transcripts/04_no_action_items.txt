@@ -1,0 +1,24 @@
+Meeting: Friday Team Catch-up
+Attendees: Team (informal)
+
+Rida: Hey everyone, how was the week?
+
+Junaid: Pretty good, busy but good. We shipped the small bug fix release on Tuesday.
+
+Rida: Nice. Anything blocking anyone?
+
+Junaid: Not really, just the usual amount of Slack noise.
+
+Amna: Same here. I've been reading up on some new design trends, nothing urgent to report.
+
+Rida: Cool. We might look into revamping the onboarding flow at some point down the line, just something I've been thinking about, nothing concrete yet.
+
+Junaid: Yeah, could be interesting eventually.
+
+Amna: Agreed, worth keeping in mind.
+
+Rida: Alright, no real agenda today, just wanted to check in. Everyone have a good weekend, we'll do a real planning session next week.
+
+Junaid: Sounds good, have a good one.
+
+Amna: You too, bye everyone.

@@ -1,0 +1,34 @@
+Meeting: Q3 Website Relaunch — Weekly Sync
+Attendees: Sara (PM), Daniyal (Frontend), Hina (Backend), Omar (Design)
+
+Sara: Okay, let's get started. Last week we agreed to go with the new checkout flow design. Did everyone confirm that's final?
+
+Omar: Yes, the design team signed off Tuesday. I've uploaded the final Figma files to the shared drive.
+
+Sara: Great, that's settled then — we're moving forward with the redesigned checkout flow.
+
+Daniyal: On my end, I finished the product listing page. I'm about 60% done with the checkout page itself. I should have it ready for review by next Wednesday.
+
+Sara: Perfect. Daniyal, can you also loop in Hina once the frontend is ready so she can wire up the payment API?
+
+Daniyal: Yeah, I'll ping her Wednesday when it's ready.
+
+Hina: Sounds good. I already finished the payment gateway integration on staging, so I'm ready whenever Daniyal sends it over.
+
+Sara: Nice. Hina, one more thing — we decided last time to switch from Stripe test mode to the live sandbox for QA. Has that happened?
+
+Hina: Yes, that's done. I made the switch on Monday.
+
+Sara: Great, so that's confirmed complete, not a pending item.
+
+Omar: Should we also revisit the color palette? I still think the accent blue is too dark against the new background.
+
+Sara: Let's take that as a suggestion for now, not a decision — I don't want to reopen the visual design this late. Omar, can you prepare two alternate palette options by Friday so we can review together, without committing to changing anything yet?
+
+Omar: Sure, I'll have two options ready by Friday.
+
+Sara: Awesome. Last thing — QA sign-off. Hina, you mentioned before that QA usually takes about a week. Can you own coordinating that once Daniyal's checkout page is in?
+
+Hina: Yep, I'll own QA coordination. I'll kick it off as soon as the checkout page lands, so probably starting next Wednesday or Thursday.
+
+Sara: Perfect. Let's regroup same time next week. Thanks everyone.

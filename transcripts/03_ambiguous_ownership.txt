@@ -1,0 +1,36 @@
+Meeting: Marketing Launch Planning
+Attendees: Bilal, Noor, Sana, Kamran
+
+Bilal: We need to get the landing page copy finalized before launch. Someone needs to own that.
+
+Noor: I could take a first pass, but honestly Sana knows the product positioning better than I do, so maybe it should be her.
+
+Sana: I'm swamped with the deck for the investor call this week, so I don't think I can commit to it right now.
+
+Bilal: Okay, so... let's just say whoever has bandwidth first picks it up. Can we agree on that?
+
+Noor: Sure, I guess. I'll try to start it if I get time.
+
+Bilal: Right. Moving on — launch date. Are we still good for the 15th?
+
+Kamran: I think marketing can be ready by the 15th, but I heard from Hina on the eng side that the backend feature flag might not be ready until "sometime that week." I don't have an exact date from her.
+
+Bilal: So we don't actually have a confirmed launch date yet, just a target.
+
+Kamran: Right, it's more of a target than a commitment at this point.
+
+Bilal: Understood. Let's also talk about the press release. Kamran, you sent a draft around, did that get approved?
+
+Kamran: I sent a draft, but I never heard back from legal, so I wouldn't say it's approved. It's just sitting with them.
+
+Bilal: Okay, so that's still pending, not signed off.
+
+Sana: One more thing — for the launch day social posts, is that on the design team or is Noor doing those too?
+
+Noor: I don't handle social posts usually, that's normally design or Kamran's team, but nobody's said explicitly who's doing it for this launch.
+
+Bilal: Let's flag that as something we need to sort out before launch — it's genuinely unclear right now who owns it.
+
+Kamran: Agreed, let's not guess and just raise it in the next planning call.
+
+Bilal: Okay, sounds like a few things are still up in the air. Let's reconvene Thursday to nail these down.

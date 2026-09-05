@@ -1,0 +1,38 @@
+Meeting: Ops Standup — Warehouse Delay Issue
+Attendees: Faizan, Ayesha, Tariq, (Zainab joined late)
+
+Faizan: So the shipment from the Lahore warehouse is stuck, we need to figure out—
+
+Ayesha: —sorry, before that, can we quickly confirm the vendor invoice thing from Monday? Actually no, never mind, that got resolved, ignore it.
+
+Faizan: Okay. So the shipment. It's been delayed since Tuesday because of the customs paperwork.
+
+Tariq: Right, and I think — actually wait, I talked to the customs broker yesterday, not Tuesday, let me correct that. I talked to them yesterday and they said it should clear by tomorrow.
+
+Faizan: Okay so tomorrow. Tariq, can you follow up with the broker again tomorrow morning to confirm it actually cleared?
+
+Tariq: Yeah — actually, hold on, I might be traveling tomorrow morning. Let's say I'll check in the afternoon instead.
+
+Faizan: Sure, afternoon works. So Tariq follows up tomorrow afternoon.
+
+Ayesha: Should someone also notify the retail partners that the shipment's delayed? They're expecting it Thursday.
+
+Faizan: Hmm, good point. Someone should do that but I'm not sure who's best placed — Ayesha, is that usually you or is it Zainab's side?
+
+Ayesha: Normally it's Zainab, but she's not on this call yet.
+
+Faizan: Okay, let's leave that open until she joins, don't want to assign it without her.
+
+[Zainab joins]
+
+Zainab: Sorry I'm late, what did I miss?
+
+Faizan: We were just saying — the shipment's delayed, might clear tomorrow, and someone needs to notify retail partners about the Thursday delivery slipping. Can that be you?
+
+Zainab: Yeah I can do that, I'll message them today actually, no need to wait.
+
+Faizan: Great, thanks. Anything else before we wrap? Ayesha, weren't you also going to look into the packaging supplier issue?
+
+Ayesha: Oh — I mentioned that last week but I don't think we ever actually decided anyone would look into it, it was more just me venting about the delays. I haven't done anything on it and I don't think it's assigned to me.
+
+Faizan: Fair, let's not pretend that's a real action item then. Okay, I think that's everything for today.
