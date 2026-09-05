@@ -3,7 +3,7 @@
 A structured-extraction pipeline for meeting transcripts, built to **minimize
 hallucinated action items and preserve uncertainty** when meeting information
 is ambiguous — not "an AI meeting summarizer."
-
+**Live demo:** https://transcript-to-action-pipeline-fu2qxclibyrvepspsjq7cu.streamlit.app/
 ## Problem
 
 Meeting-note tools like Otter.ai and Fireflies.ai are good at transcription
@@ -268,10 +268,5 @@ python eval/run_eval.py
 ```
 
 ---
-
-**Demo script (for a short walkthrough):** load
-`transcripts/03_ambiguous_ownership.txt` → run extraction → open the
-Evidence expander on a couple of action items to show verification → point
-out the `null` owner/deadline fields and the Ambiguities section → download
-the `.docx` and show the owner-grouped tables and the automated flags
-section.
+Demo link:
+**Try it yourself:** open the [live demo](https://transcript-to-action-pipeline-fu2qxclibyrvepspsjq7cu.streamlit.app/), load `transcripts/03_ambiguous_ownership.txt` → run extraction → open the Evidence expander on a couple of action items to show verification → point out the `null` owner/deadline fields and the Ambiguities section → download the `.docx` and show the owner-grouped tables and the automated flags section.
