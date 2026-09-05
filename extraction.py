@@ -9,7 +9,7 @@ via Gemini's native structured-output support.
 The prompt is the main hallucination-control mechanism. See PROMPT_RULES
 below and eval/test_cases.md for how these rules were arrived at.
 
-Model: "gemini-flash-latest" is a Google-managed alias that always points
+MODEL = "gemini-flash-lite-latest" is a Google-managed alias that always points
 at their current recommended flash model, so this code doesn't need
 updating every time Google ships a new generation. It's covered by the
 free Gemini Developer API tier (ai.google.dev) - no billing required.
@@ -31,7 +31,7 @@ from pydantic import ValidationError
 
 from schema import MeetingExtraction
 
-MODEL = "gemini-flash-latest"
+MODEL = "gemini-flash-lite-latest"
 
 SYSTEM_PROMPT = """You are a meeting-extraction engine. You read a raw meeting \
 transcript and extract ONLY what was actually said. You are not a creative \
